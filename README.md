@@ -11,6 +11,7 @@
 
 
 ## Дизайн  приложения
+![image](https://github.com/SleepSaw/bntu.vsrpp.DSleptsov.NBAPI/assets/138392423/5e765fd8-5414-45dc-b2a8-1106b981186a)
 
 
 ## Благодарность
