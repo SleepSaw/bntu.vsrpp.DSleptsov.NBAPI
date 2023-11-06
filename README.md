@@ -11,7 +11,14 @@
 
 
 ## Дизайн  приложения
+Конвертер валют
 ![image](https://github.com/SleepSaw/bntu.vsrpp.DSleptsov.NBAPI/assets/138392423/5e765fd8-5414-45dc-b2a8-1106b981186a)
+График
+![image](https://github.com/SleepSaw/bntu.vsrpp.DSleptsov.NBAPI/assets/138392423/03155a52-51ee-4826-a0b0-1ab8030c3100)
+Общая сводка 
+![image](https://github.com/SleepSaw/bntu.vsrpp.DSleptsov.NBAPI/assets/138392423/6d3229e0-453d-4ffa-a439-1123cdeaa0b9)
+
+
 
 
 ## Благодарность
